@@ -3,7 +3,7 @@
     "content": [
       {
         "files": [
-          "toc.yml"
+          "**/*.yml"
         ],
         "src": "skype-ps/docs-conceptual",
         "version": "skype-ps",
@@ -19,7 +19,7 @@
       },
       {
         "files": [
-          "toc.yml"
+          "**/*.yml"
         ],
         "src": "skype-ps",
         "version": "skype-ps",
