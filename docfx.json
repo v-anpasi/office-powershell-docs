@@ -15,7 +15,7 @@
         ],
         "src": "skype/docs-conceptual",
         "version": "skype-ps",
-        "dest": "skype/skype-ps"
+        "dest": "skype"
       },
       {
         "files": [
